@@ -1,0 +1,17 @@
+dicas: colar terminal;
+branch = linha de desenvolvimento;
+ls= lista arquivos pasta;
+Notepad++.exe seguido do nome do arquivo, abre o arquivo no notepad;
+ctrl+l = limpa tela;
+cd - = volta para o diretório anterior acessado;
+git status = mostra se tem commit;
+git commit nome_arquivo_alterado = salva a alteração no arquivo no repositório local
+deve-se incluir titulo e mensagem de corpo para email, senão não valida commit - é abortado;
+git push = atualiza o repositório remoto(web);
+salvar novo arquivo no repositório local e remoto:
+no site git: 
+dashbord-> new repository -> insere informações -> create repository ->
+a seguir será listados comandos para serem escritos no terminal para que o repositório remoto crie e reconheça o repositório local;
+git help = ajuda do git
+
+aprender vim - editor 
