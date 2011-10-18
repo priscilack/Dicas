@@ -12,6 +12,15 @@ salvar novo arquivo no repositório local e remoto:
 no site git: 
 dashbord-> new repository -> insere informações -> create repository ->
 a seguir será listados comandos para serem escritos no terminal para que o repositório remoto crie e reconheça o repositório local;
+colocar o arquivo na pasta que será utilizada no repositório local, agora para enviar o novo arquivo :
+comando : git add, git commit novo_arquivo, git push para atualizar repositório remoto
 git help = ajuda do git
 
 aprender vim - editor 
+primeiro digita i/clica insert:modo de inserção de texto
+esc= sai do modo
+: = executa comandos do vim, no modo comando
+:x = salva e sai
+:w = salva;
+:q = sai do vim se as alterações foram salvas;
+:q! =  sai, mesmo sem salvar alterações;
